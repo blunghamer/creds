@@ -22,4 +22,3 @@ jobs:
         goversion: "1.17"
         project_path: "./cmd/creds"
         binary_name: "creds"
-        extra_files: README.md
