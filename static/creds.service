@@ -1,0 +1,8 @@
+[Unit]
+Description=creds enables storing env secrets in keypass
+
+[Service]
+ExecStart=creds
+
+[Install]
+WantedBy=default.target
